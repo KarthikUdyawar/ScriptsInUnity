@@ -1,2 +1,2 @@
-# AccelerateTowards
-Accelerate Towards script in unity
+# Scripts in unity
+Importent script in unity
